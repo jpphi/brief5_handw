@@ -1,3 +1,4 @@
 Brief 5:
-Reconnaissance des empreintes digitales.
+Reconnaissance d'écriture manuelle, chiffre de 0 à 9.
 Regression logistique
+descente de gradien / gradien stochastique
