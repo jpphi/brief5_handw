@@ -1,4 +1,12 @@
-Brief 5:
-Reconnaissance d'écriture manuelle, chiffre de 0 à 9.
-Regression logistique
-descente de gradien / gradien stochastique
+Brief 5: Reconnaissance d'écriture manuelle, chiffre de 0 à 9.
+descente de gradien / gradien stochastique / Regression logistique
+
+début: 25 novembre 2020
+Correction du brief réalisé du 27 septembre au 13 octobre 2021
+
+contenu:
+rendu_brief5_handw.ipynb : Notebook
+Lisez.Moi
+
+Note: pour régler le problème du push faire: git remote set-url origin git@github.com:jpphi/briefxxxxxxxxxx.git
+    git remote set-url origin git@github.com:jpphi/brief5_handw.git
